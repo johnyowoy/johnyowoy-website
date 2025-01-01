@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjinhau_web_blog=self.webpackChunkjinhau_web_blog||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"WelCome my blog","permalink":"/johnyowoy-website/blog/2024/12/25/welcome","unlisted":false,"date":"2024-12-25T00:00:00.000Z"}]}')}}]);

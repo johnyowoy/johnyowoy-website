@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/johnyowoy-website/blog</id>
+    <title>JOHNYOWOY Blog</title>
+    <updated>2024-12-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/johnyowoy-website/blog"/>
+    <subtitle>JOHNYOWOY Blog</subtitle>
+    <icon>https://github.com/johnyowoy-website/img/myIcon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WelCome my blog]]></title>
+        <id>https://github.com/johnyowoy-website/blog/2024/12/25/welcome</id>
+        <link href="https://github.com/johnyowoy-website/blog/2024/12/25/welcome"/>
+        <updated>2024-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[關於我自己]]></summary>
+        <content type="html"><![CDATA[<p>HiHiHi</p>]]></content>
+        <author>
+            <name>JINHAU HUANG</name>
+            <uri>https://github.com/johnyowoy</uri>
+        </author>
+        <category label="about me" term="about me"/>
+    </entry>
+</feed>
