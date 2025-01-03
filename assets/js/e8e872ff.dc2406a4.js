@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjinhau_web_blog=self.webpackChunkjinhau_web_blog||[]).push([[6256],{9156:e=>{e.exports=JSON.parse('{"tags":[{"label":"about me","permalink":"/johnyowoy-website/blog/tags/about-me","count":1}]}')}}]);

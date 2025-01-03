@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjinhau_web_blog=self.webpackChunkjinhau_web_blog||[]).push([[6256],{9156:e=>{e.exports=JSON.parse('{"tags":[{"label":"\u95dc\u65bc\u6211\u81ea\u5df1","permalink":"/johnyowoy-website/blog/tags/\u95dc\u65bc\u6211\u81ea\u5df1","count":1}]}')}}]);
