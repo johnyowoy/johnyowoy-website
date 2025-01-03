@@ -91,7 +91,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/IT_ArticleSharing', label: 'IT 文章分享', position: 'left'},
-          {to: '/JapanLanguage', label: '日文學習', position: 'left'},
+          //{to: '/JapanLanguage', label: '日文學習', position: 'left'},
           {
             href: 'https://github.com/johnyowoy',
             label: 'GitHub',
@@ -107,7 +107,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/introduction',
               },
             ],
           },
